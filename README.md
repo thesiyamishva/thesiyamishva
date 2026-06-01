@@ -14,3 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi, I'm a Thesiya Mishva Data Science Student 👋
+
+## Currently Learning
+- Python
+- Data Science Fundamentals
+- Git & GitHub
+
+## Skills
+- Python Basics
+- Problem Solving
+- Data Analysis (Learning)
+
+## Goals
+- Build Python Projects
+- Learn Pandas and NumPy
+- Become a Data Scientist
+
+## Connect With Me
+- GitHub: https://github.com/yourusername
