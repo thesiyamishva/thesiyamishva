@@ -1,35 +1,62 @@
 ## Hi there 👋
 
-<!--
-**thesiyamishva/thesiyamishva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there 👋 I'm Thesiya Mishva 
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Hi, I'm a Thesiya Mishva Data Science Student 👋
+### 🎓 Diploma Graduate from Parul University
+### 📊 Aspiring Data Scientist
+### 🐍 Currently Learning Python
 
-## Currently Learning
+</div>
+
+---
+
+## 🚀 About Me
+
+🎓 Diploma in Engineering from Parul University
+
+🌱 Currently Learning:
 - Python
-- Data Science Fundamentals
+- Data Science
 - Git & GitHub
 
-## Skills
-- Python Basics
-- Problem Solving
-- Data Analysis (Learning)
-
-## Goals
+🎯 Goals:
 - Build Python Projects
-- Learn Pandas and NumPy
+- Learn Pandas & NumPy
+- Explore Machine Learning
 - Become a Data Scientist
 
-## Connect With Me
-- GitHub: https://github.com/yourusername
+---
+
+## 💻 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 📚 Currently Learning
+
+```python
+skills = {
+    "Programming": ["Python"],
+    "Tools": ["Git", "GitHub", "VS Code"],
+    "Future Goals": ["Pandas", "NumPy", "Machine Learning"]
+}
+
+print("Learning Data Science 🚀")
+```
+
+---
+
+## 🌟 Fun Fact
+
+⚡ Every expert was once a beginner.
+⚡ Learning Python one project at a time.
+
