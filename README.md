@@ -32,7 +32,7 @@
 ## 🚀 Currently Learning
 
 ```python
-name = "Yatri"
+name = "Mishva"
 course = "Data Science"
 language = "Python"
 
